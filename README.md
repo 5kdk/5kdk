@@ -1,16 +1,88 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**5kdk/5kdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello 안녕하세요 :)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Introduction
+
+안녕하세요! 산업디자이너 출신의 프론트엔드 개발자 김동규입니다.  
+사용자의 니즈와 요구사항에 귀 기울여 직관적이고 효율적인 인터페이스를 구축하는 데 큰 관심을 두고 있습니다.  
+팀원들과 원활한 커뮤니케이션 및 유연한 협업이 프로젝트 성공과 코드 품질에 큰 영향을 미친다고 생각합니다.  
+이를 위해 JavaScript와 React 등 동작 원리에 대한 깊은 이해를 바탕으로 단순 동작만 하는 코드가 아닌 명확한 의사소통이 될 수 있는 코드를 작성하고자 끊임없이 노력하며, 디자인 전문성을 활용해 다양한 직무와 효율적인 커뮤니케이션을 추구합니다.  
+저의 열정과 경험들을 통해 사용자에게 더 나은 웹 경험을 선사하는것이 저의 목표입니다.
+
+<br>
+
+Hello! I'm Dongkyu Kim, a frontend developer who comes from an industrial design background.  
+I dedicate myself to crafting intuitive and efficient interfaces by carefully considering users' needs and requirements.  
+I hold the firm belief that smooth communication and flexible collaboration among team members significantly influence project success and code quality.  
+In pursuit of this, I tirelessly work on writing easily comprehensible code, rather than just functional code, by deeply understanding the underlying principles of JavaScript and React.  
+Furthermore, I draw on my design expertise in promoting efficient communication across diverse job roles.  
+With my passion and experience, my ultimate goal is to offer an enhanced web experience for users.
+
+<br>
+
+#### Studying now:
+
+![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript)
+![Redux](https://img.shields.io/badge/redux-black.svg?style=for-the-badge&logo=redux&logoColor=593D88)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-black.svg?style=for-the-badge&logo=reacthookform&logoColor=23EC5990)
+
+<br>
+
+#### Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/vite-black.svg?style=for-the-badge&logo=vite)
+![React Query](https://img.shields.io/badge/-React%20Query-black?style=for-the-badge&logo=react%20query)
+![Recoil](https://img.shields.io/badge/Recoil-black.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iQ2FscXVlXzEiIGRhdGEtbmFtZT0iQ2FscXVlIDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI1NS4yMSA2MjMuOTEiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDp3aGl0ZX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Im03NC42MiAyNzcuNDYgMS4yNC0uMTMgMzQuNzgtMy4yOC01My40Ny01OC42NkE5Ni40NyA5Ni40NyAwIDAgMSAzMiAxNTAuM0gzYTEyNS4zIDEyNS4zIDAgMCAwIDMyLjggODQuNTdaTTE3Ny4xMyAzNDdsLTM2IDMuNCA1My4zMiA1OC41MUE5Ni40MSA5Ni40MSAwIDAgMSAyMTkuNjMgNDc0aDI4LjkyYTEyNS4yOCAxMjUuMjggMCAwIDAtMzIuNzYtODQuNTdaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMjUzLjY5IDIzMS42OGMtNi4zMy0zMS4zLTMwLjg5LTU0LjA5LTYyLjU3LTU4LjA3bC02LjM1LS43OWE0OS42MSA0OS42MSAwIDAgMS00My4zNS00OS4xM3YtMjBhNTIuNzUgNTIuNzUgMCAxIDAtMjguOTEtLjM2djIwLjM4YTc4LjU2IDc4LjU2IDAgMCAwIDY4LjY1IDc3LjgybDYuMzYuOGMyMy4yNCAyLjkyIDM0Ljc4IDIwIDM3LjgzIDM1LjFzLS45MyAzNS4zMi0yMS4yMiA0N2E3My44MSA3My44MSAwIDAgMS0zMC4wNiA5LjYybC05NS42NiA5YTEwMi40NSAxMDIuNDUgMCAwIDAtNDEuOCAxMy4zOEM5IDMzMi40NS00LjgxIDM2MyAxLjUyIDM5NC4yOXMzMC44OSA1NC4wOCA2Mi41NyA1OC4wNmw2LjM1LjhhNDkuNiA0OS42IDAgMCAxIDQzLjM1IDQ5LjEydjE4YTUyLjc1IDUyLjc1IDAgMSAwIDI4LjkxLjI2di0xOC4yNmE3OC41NSA3OC41NSAwIDAgMC02OC42NS03Ny44MWwtNi4zNi0uOGMtMjMuMjQtMi45Mi0zNC43OC0yMC4wNS0zNy44My0zNS4xMXMuOTMtMzUuMzIgMjEuMjItNDdhNzMuNjggNzMuNjggMCAwIDEgMzAuMDYtOS42M2w5NS42Ni05YTEwMi40NSAxMDIuNDUgMCAwIDAgNDEuOC0xMy4zOGMyNy42NS0xNi4wMiA0MS40LTQ2LjU0IDM1LjA5LTc3Ljg2WiIvPjwvc3ZnPg==)
+![React Router](https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=react-router)
+![axios](https://img.shields.io/badge/axios-black?style=for-the-badge&logo=axios&logoColor=5A29E4)
+![Styled Components](https://img.shields.io/badge/styled--components-black?style=for-the-badge&logo=styled-components)
+![Emotion](https://img.shields.io/badge/emotion-black?style=for-the-badge&logo=styled-components)
+![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![ESLint](https://img.shields.io/badge/eslint-black?style=for-the-badge&logo=eslint&logoColor=4B32C3)
+![Prettier](https://img.shields.io/badge/prettier-black?style=for-the-badge&logo=prettier)
+
+<!-- design tools -->
+
+![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-black.svg?style=for-the-badge&logo=adobe%20photoshop)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-black.svg?style=for-the-badge&logo=adobe%20illustrator)
+![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-black.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-black?style=for-the-badge&logo=Adobe%20after%20effects)
+![Rhinoceros](https://img.shields.io/badge/Rhinoceros-black?style=for-the-badge&logo=rhinoceros)
+
+<br>
+
+#### Other Experience:
+
+- Industrial Designer (~2021)
+- Major in Industrial Design at Sejong University (2018)
+- Design Awards and Achievements :
+  - Reddot concept award - Winner
+  - IF design talent award - Best of the year
+  - Pinup concept design award (Samsung Electronics) - Gold
+  - and more
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/5kdk/My-Notes/assets/86090355/5a4c2933-471d-4f5d-9f7a-a7c07028a526" height="60px">
+</div>
+
+<br>
+
+<div align="center">
+
+[Resume](https://www.notion.so/5kdk/fbba7ce69de14f9eace794408d615573)  
+Blog:~~[🚧공사중🚧](https://5kdk.github.io/)~~  
+Contact: 5kdk.code@gmail.com
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5kdk&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+<div>
