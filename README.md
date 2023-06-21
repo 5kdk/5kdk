@@ -9,19 +9,15 @@
 안녕하세요! 산업디자이너 출신의 프론트엔드 개발자 김동규입니다.  
 사용자의 니즈와 요구사항에 귀 기울여 직관적이고 효율적인 인터페이스를 구축하는 데 큰 관심을 두고 있습니다.  
 팀원들과 원활한 커뮤니케이션 및 유연한 협업이 프로젝트 성공과 코드 품질에 큰 영향을 미친다고 생각합니다.  
-이를 위해 JavaScript와 React 등 동작 원리에 대한 깊은 이해를 바탕으로 단순 동작만 하는 코드가 아닌 명확한 의사소통이 될 수 있는 코드를 작성하고자 끊임없이 노력하며, 디자인 전문성을 활용해 다양한 직무와 효율적인 커뮤니케이션을 추구합니다.  
+이를 위해 JavaScript와 React 등 동작 원리에 대한 깊은 이해를 바탕으로 단순히 잘 동작하는 코드가 아닌 명확한 의사소통이 될 수 있는 코드를 작성하고자 끊임없이 노력하며, 디자인 전문성을 활용해 다양한 직무와 효율적인 커뮤니케이션을 추구합니다.  
 저의 열정과 경험들을 통해 사용자에게 더 나은 웹 경험을 선사하는것이 저의 목표입니다.
 
-<br>
-
-Hello! I'm Dongkyu Kim, a frontend developer who comes from an industrial design background.  
-I dedicate myself to crafting intuitive and efficient interfaces by carefully considering users' needs and requirements.  
-I hold the firm belief that smooth communication and flexible collaboration among team members significantly influence project success and code quality.  
-In pursuit of this, I tirelessly work on writing easily comprehensible code, rather than just functional code, by deeply understanding the underlying principles of JavaScript and React.  
-Furthermore, I draw on my design expertise in promoting efficient communication across diverse job roles.  
-With my passion and experience, my ultimate goal is to offer an enhanced web experience for users.
-
-<br>
+> Hello! I'm Dongkyu Kim, a frontend developer who comes from an industrial design background.  
+> I dedicate myself to crafting intuitive and efficient interfaces by carefully considering users' needs and requirements.  
+> I firmly believe that smooth communication and flexible collaboration among team members significantly influence project success and code quality.  
+> In pursuit of this, I tirelessly work on writing easily comprehensible code, rather than just working code, by deeply understanding the underlying principles of JavaScript and React.  
+> Furthermore, I draw on my design expertise to promote efficient communication across diverse job roles.  
+> With my passion and experience, my ultimate goal is to offer an enhanced web experience for users.
 
 #### Studying now:
 
@@ -29,9 +25,7 @@ With my passion and experience, my ultimate goal is to offer an enhanced web exp
 ![Redux](https://img.shields.io/badge/redux-black.svg?style=for-the-badge&logo=redux&logoColor=593D88)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-black.svg?style=for-the-badge&logo=reacthookform&logoColor=23EC5990)
 
-<br>
-
-#### Languages and Tools:
+#### Skills:
 
 ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react)
@@ -57,22 +51,16 @@ With my passion and experience, my ultimate goal is to offer an enhanced web exp
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-black?style=for-the-badge&logo=Adobe%20after%20effects)
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-black?style=for-the-badge&logo=rhinoceros)
 
-<br>
-
 #### Other Experience:
 
 - Industrial Designer (~2021)
 - Major in Industrial Design at Sejong University (2018)
-- Design Awards and Achievements :
-  - Reddot concept award - Winner
-  - IF design talent award - Best of the year
-  - Pinup concept design award (Samsung Electronics) - Gold
-  - and more
+- Winner of various international design awards, including Red Dot and iF Awards
 
 <br>
 
 <div align="center">
-  <img src="https://github.com/5kdk/My-Notes/assets/86090355/5a4c2933-471d-4f5d-9f7a-a7c07028a526" height="60px">
+  <img src="https://github.com/5kdk/My-Notes/assets/86090355/5a4c2933-471d-4f5d-9f7a-a7c07028a526" height="50px">
 </div>
 
 <br>
