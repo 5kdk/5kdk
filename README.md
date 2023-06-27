@@ -10,14 +10,12 @@
 사용자의 니즈와 요구사항에 귀 기울여 직관적이고 효율적인 인터페이스를 구축하는 데 큰 관심을 두고 있습니다.  
 팀원들과 원활한 커뮤니케이션 및 유연한 협업이 프로젝트 성공과 코드 품질에 큰 영향을 미친다고 생각합니다.  
 이를 위해 JavaScript와 React 등 동작 원리에 대한 깊은 이해를 바탕으로 단순히 잘 동작하는 코드가 아닌 명확한 의사소통이 될 수 있는 코드를 작성하고자 끊임없이 노력하며, 디자인 전문성을 활용해 다양한 직무와 효율적인 커뮤니케이션을 추구합니다.  
-저의 열정과 경험들을 통해 사용자에게 더 나은 웹 경험을 선사하는것이 저의 목표입니다.
 
 > Hello! I'm Dongkyu Kim, a frontend developer who comes from an industrial design background.  
 > I dedicate myself to crafting intuitive and efficient interfaces by carefully considering users' needs and requirements.  
 > I firmly believe that smooth communication and flexible collaboration among team members significantly influence project success and code quality.  
 > In pursuit of this, I tirelessly work on writing easily comprehensible code, rather than just working code, by deeply understanding the underlying principles of JavaScript and React.  
 > Furthermore, I draw on my design expertise to promote efficient communication across diverse job roles.  
-> With my passion and experience, my ultimate goal is to offer an enhanced web experience for users.
 
 #### Studying now:
 
@@ -67,7 +65,6 @@
 
 <div align="center">
 
-[Resume](https://www.notion.so/5kdk/fbba7ce69de14f9eace794408d615573)  
 Blog:~~[🚧공사중🚧](https://5kdk.github.io/)~~  
 Contact: 5kdk.code@gmail.com
 
