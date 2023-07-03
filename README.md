@@ -49,6 +49,12 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-black?style=for-the-badge&logo=Adobe%20after%20effects)
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-black?style=for-the-badge&logo=rhinoceros)
 
+#### Education:
+
+- Wanted Front-End Pre-Onboarding Internship (2023.06 ~ )
+- Zerobase Offline School (2023.01 ~ 05)
+- Zerobase Front-End School (2022.10 ~ 12)
+
 #### Other Experience:
 
 - Industrial Designer (~2021)
