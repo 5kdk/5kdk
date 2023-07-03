@@ -1,10 +1,5 @@
-<div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello 안녕하세요 :)
-
-</div>
-
-#### Introduction
+# 5kdk <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="30px">
 
 안녕하세요! 산업디자이너 출신의 프론트엔드 개발자 김동규입니다.  
 사용자의 니즈와 요구사항에 귀 기울여 직관적이고 효율적인 인터페이스를 구축하는 데 큰 관심을 두고 있습니다.  
@@ -21,7 +16,7 @@
 
 ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript)
 ![Redux](https://img.shields.io/badge/redux-black.svg?style=for-the-badge&logo=redux&logoColor=593D88)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-black.svg?style=for-the-badge&logo=reacthookform&logoColor=23EC5990)
+
 
 #### Skills:
 
@@ -34,6 +29,7 @@
 ![axios](https://img.shields.io/badge/axios-black?style=for-the-badge&logo=axios&logoColor=5A29E4)
 ![Styled Components](https://img.shields.io/badge/styled--components-black?style=for-the-badge&logo=styled-components)
 ![Emotion](https://img.shields.io/badge/emotion-black?style=for-the-badge&logo=styled-components)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-black.svg?style=for-the-badge&logo=reacthookform&logoColor=23EC5990)
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -49,7 +45,7 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-black?style=for-the-badge&logo=Adobe%20after%20effects)
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-black?style=for-the-badge&logo=rhinoceros)
 
-#### Educations:
+#### Activities:
 
 - Wanted pre-onboarding frontend internship (2023.06 ~ )
 - Zerobase offline school (2023.01 ~ 05)
