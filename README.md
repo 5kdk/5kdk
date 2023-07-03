@@ -49,16 +49,16 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-black?style=for-the-badge&logo=Adobe%20after%20effects)
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-black?style=for-the-badge&logo=rhinoceros)
 
-#### Education:
+#### Educations:
 
-- Wanted Front-End Pre-Onboarding Internship (2023.06 ~ )
-- Zerobase Offline School (2023.01 ~ 05)
-- Zerobase Front-End School (2022.10 ~ 12)
+- Wanted pre-onboarding frontend internship (2023.06 ~ )
+- Zerobase offline school (2023.01 ~ 05)
+- Zerobase frontend school (2022.10 ~ 12)
 
 #### Other Experience:
 
-- Industrial Designer (~2021)
-- Major in Industrial Design at Sejong University (2018)
+- Industrial designer (~2021)
+- Major in industrial sesign at Sejong university (2018)
 - Winner of various international design awards, including Red Dot and iF Awards
 
 <br>
