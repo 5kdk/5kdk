@@ -16,7 +16,7 @@
 
 ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript)
 ![Redux](https://img.shields.io/badge/redux-black.svg?style=for-the-badge&logo=redux&logoColor=593D88)
-
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
 
 #### Skills:
 
