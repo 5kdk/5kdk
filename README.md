@@ -17,6 +17,8 @@
 ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript)
 ![Redux](https://img.shields.io/badge/redux-black.svg?style=for-the-badge&logo=redux&logoColor=593D88)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
+![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Sass](https://img.shields.io/badge/sass-black.svg?style=for-the-badge&logo=sass&logoColor=CC6699)
 
 #### Skills:
 
@@ -46,9 +48,12 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-black?style=for-the-badge&logo=Adobe%20after%20effects)
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-black?style=for-the-badge&logo=rhinoceros)
 
+#### Career:
+- pxd (2023.09 ~ )
+
 #### Activities:
 
-- Wanted pre-onboarding frontend internship (2023.06 ~ )
+- Wanted pre-onboarding frontend internship (2023.06 ~ 08)
 - Zerobase offline school (2023.01 ~ 05)
 - Zerobase frontend school (2022.10 ~ 12)
 
