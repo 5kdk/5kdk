@@ -1,5 +1,5 @@
 
-# 5kdk <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="30px">
+# 5kdk
 
 안녕하세요! 산업디자이너 출신의 프론트엔드 개발자 김동규입니다.  
 사용자의 니즈와 요구사항에 귀 기울여 직관적이고 효율적인 인터페이스를 구축하는 데 큰 관심을 두고 있습니다.  
@@ -49,7 +49,7 @@
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-black?style=for-the-badge&logo=rhinoceros)
 
 #### Career:
-- pxd (2023.09 ~ )
+- PXD - XE group, Frontend developer (2023.09 ~ )
 
 #### Activities:
 
