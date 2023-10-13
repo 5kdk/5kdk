@@ -49,7 +49,7 @@
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-black?style=for-the-badge&logo=rhinoceros)
 
 #### Career:
-- PXD - XE group, Frontend developer (2023.09 ~ )
+- pxd / XE group, Frontend developer (2023.09 ~ )
 
 #### Activities:
 
