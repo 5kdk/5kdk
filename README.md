@@ -12,7 +12,7 @@
 > Furthermore, I draw on my design expertise to promote efficient communication across diverse job roles.
 
 
-#### Core Skills:
+#### Core skills:
 
 <!-- FE -->
 
