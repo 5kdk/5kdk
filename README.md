@@ -22,14 +22,14 @@
 ![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 #### Career:
-- ohseven / Freelancer, Frontend developer (2024.06 ~ )
+- ohseven / Freelancer, Frontend developer (2024.06 ~ 07)
 - pxd / XE group, Frontend developer (2023.09 ~ 04)
 
 #### Other career:
 
 - Industrial designer (~2021)
-- Major in industrial sesign at Sejong university (2018)
-- Winner of various international design awards, including Red Dot and iF Awards
+- Major in industrial design at Sejong university (2018)
+- Winner of various international design awards, including Red Dot award and iF awards
 
 <br />
 
