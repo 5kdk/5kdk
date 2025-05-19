@@ -1,5 +1,3 @@
-# 5kdk
-
 안녕하세요! 프론트엔드 개발자 김동규입니다.  
 사용자의 니즈와 요구사항에 귀 기울여 직관적이고 효율적인 인터페이스를 구축하는 데 큰 관심을 두고 있습니다.  
 팀원들과 원활한 커뮤니케이션 및 유연한 협업이 프로젝트 성공과 코드 품질에 큰 영향을 미친다고 생각합니다.  
@@ -16,10 +14,10 @@
 
 <!-- FE -->
 
-![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-gray.svg?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-gray.svg?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/react-gray.svg?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/NextJS-gray?style=for-the-badge&logo=next.js&logoColor=black)
 
 #### About me:
 
